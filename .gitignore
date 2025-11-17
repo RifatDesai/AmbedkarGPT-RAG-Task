@@ -1,0 +1,10 @@
+# .gitignore
+
+# Python virtual environment (Crucial for speed)
+venv/
+
+# Vector Store (Crucial for speed)
+chroma_db/
+# Other standard files to ignore
+__pycache__/
+*.pyc
